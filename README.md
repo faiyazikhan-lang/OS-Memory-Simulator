@@ -10,7 +10,7 @@ This project is a Python-based simulator designed to visualize the **First-In-Fi
 *   **Result**: The simulator successfully identified 9 page faults for the tested 10-page sequence, providing a clear visual trace of memory "Hits" and "Misses."
 
 ## 🎥 Demo Video
-[**Click here to watch the demo**](INSERT_YOUR_YOUTUBE_OR_LOOM_LINK_HERE)
+[**Click here to watch the demo**]([INSERT_YOUR_YOUTUBE_OR_LOOM_LINK_HERE](https://github.com/faiyazikhan-lang/OS-Memory-Simulator/blob/main/OS_Project_FIFO_Simulator.ipynb%20-%20Colab%20-%20Google%20Chrome%202026-05-05%2023-01-42.mp4))
 
 ## 💻 How to Run
 1. Open the `.ipynb` file in Google Colab.
